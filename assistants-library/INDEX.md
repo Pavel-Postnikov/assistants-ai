@@ -11,7 +11,7 @@
 | Анализ и критика | [assistants/analysis.md](assistants/analysis.md) | 0 |
 | Генерация идей | [assistants/ideas.md](assistants/ideas.md) | 0 |
 | Работа с текстом | [assistants/writing.md](assistants/writing.md) | 0 |
-| Планирование | [assistants/planning.md](assistants/planning.md) | 0 |
+| Планирование | [assistants/planning.md](assistants/planning.md) | 1 |
 | Разработка | [assistants/code.md](assistants/code.md) | 0 |
 | Контент и творчество | [assistants/content.md](assistants/content.md) | 0 |
 | Принятие решений | [assistants/decisions.md](assistants/decisions.md) | 0 |
@@ -41,7 +41,8 @@
 
 | Тег | Помощники |
 |---|---|
-| — | пока пусто |
+| #работа | Формировщик задач Jira |
+| #claude-code | Формировщик задач Jira |
 
 ---
 
