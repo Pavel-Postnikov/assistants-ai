@@ -11,7 +11,7 @@
 | Анализ и критика | [assistants/analysis/](assistants/analysis/index.md) | 0 |
 | Генерация идей | [assistants/ideas/](assistants/ideas/index.md) | 0 |
 | Работа с текстом | [assistants/writing/](assistants/writing/index.md) | 0 |
-| Планирование | [assistants/planning/](assistants/planning/index.md) | 1 |
+| Планирование | [assistants/planning/](assistants/planning/index.md) | 2 |
 | Разработка | [assistants/code/](assistants/code/index.md) | 0 |
 | Контент и творчество | [assistants/content/](assistants/content/index.md) | 0 |
 | Принятие решений | [assistants/decisions/](assistants/decisions/index.md) | 0 |
@@ -63,8 +63,10 @@
 | #claude-code | [Формировщик задач Jira](assistants/planning/jira-task-builder.md) |
 | #cursor | [Формировщик задач Jira](assistants/planning/jira-task-builder.md) |
 | #codex | [Формировщик задач Jira](assistants/planning/jira-task-builder.md) |
-| #диалог | [Формировщик задач Jira](assistants/planning/jira-task-builder.md) |
-| #готовый-текст | [Формировщик задач Jira](assistants/planning/jira-task-builder.md) |
+| #личное | [Тренер по дрессировке пса](assistants/planning/dog-training-planner.md) |
+| #здоровье | [Тренер по дрессировке пса](assistants/planning/dog-training-planner.md) |
+| #диалог | [Формировщик задач Jira](assistants/planning/jira-task-builder.md), [Тренер по дрессировке пса](assistants/planning/dog-training-planner.md) |
+| #готовый-текст | [Формировщик задач Jira](assistants/planning/jira-task-builder.md), [Тренер по дрессировке пса](assistants/planning/dog-training-planner.md) |
 
 ---
 

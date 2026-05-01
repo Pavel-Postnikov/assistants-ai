@@ -7,3 +7,4 @@
 | Помощник | Файл | Теги |
 |---|---|---|
 | Формировщик задач Jira | [jira-task-builder.md](jira-task-builder.md) | #работа #claude-code #cursor #codex #диалог #готовый-текст |
+| Тренер по дрессировке пса | [dog-training-planner.md](dog-training-planner.md) | #личное #здоровье #чат #диалог #готовый-текст |
