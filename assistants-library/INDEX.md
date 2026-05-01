@@ -8,13 +8,13 @@
 
 | Категория | Папка | Кол-во помощников |
 |---|---|---|
-| Анализ и критика | [assistants/analysis/](assistants/analysis/index.md) | 0 |
-| Генерация идей | [assistants/ideas/](assistants/ideas/index.md) | 0 |
-| Работа с текстом | [assistants/writing/](assistants/writing/index.md) | 0 |
-| Планирование | [assistants/planning/](assistants/planning/index.md) | 2 |
-| Разработка | [assistants/code/](assistants/code/index.md) | 0 |
-| Контент и творчество | [assistants/content/](assistants/content/index.md) | 0 |
-| Принятие решений | [assistants/decisions/](assistants/decisions/index.md) | 0 |
+| Анализ и критика | [assistants/analysis/](assistants/analysis/analysis.md) | 0 |
+| Генерация идей | [assistants/ideas/](assistants/ideas/ideas.md) | 0 |
+| Работа с текстом | [assistants/writing/](assistants/writing/writing.md) | 0 |
+| Планирование | [assistants/planning/](assistants/planning/planning.md) | 2 |
+| Разработка | [assistants/code/](assistants/code/code.md) | 0 |
+| Контент и творчество | [assistants/content/](assistants/content/content.md) | 0 |
+| Принятие решений | [assistants/decisions/](assistants/decisions/decisions.md) | 0 |
 
 ---
 
