@@ -9,7 +9,7 @@
 | Категория | Папка | Кол-во помощников |
 |---|---|---|
 | Анализ и критика | [assistants/analysis/](assistants/analysis/analysis.md) | 1 |
-| Генерация идей | [assistants/ideas/](assistants/ideas/ideas.md) | 0 |
+| Генерация идей | [assistants/ideas/](assistants/ideas/ideas.md) | 1 |
 | Работа с текстом | [assistants/writing/](assistants/writing/writing.md) | 0 |
 | Планирование | [assistants/planning/](assistants/planning/planning.md) | 2 |
 | Разработка | [assistants/code/](assistants/code/code.md) | 0 |
@@ -68,6 +68,8 @@
 | #здоровье | [Тренер по дрессировке пса](assistants/planning/dog-training-planner.md) |
 | #диалог | [Формировщик задач Jira](assistants/planning/jira-task-builder.md), [Тренер по дрессировке пса](assistants/planning/dog-training-planner.md), [Критик бизнес-идей](assistants/analysis/idea-critic.md) |
 | #вопросы | [Критик бизнес-идей](assistants/analysis/idea-critic.md) |
+| #быт | [Шеф из холодильника](assistants/ideas/fridge-chef.md) |
+| #список-идей | [Шеф из холодильника](assistants/ideas/fridge-chef.md) |
 | #готовый-текст | [Формировщик задач Jira](assistants/planning/jira-task-builder.md), [Тренер по дрессировке пса](assistants/planning/dog-training-planner.md) |
 
 ---
