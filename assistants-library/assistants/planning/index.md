@@ -6,4 +6,4 @@
 
 | Помощник | Файл | Теги |
 |---|---|---|
-| Формировщик задач Jira | [jira-task-builder.md](jira-task-builder.md) | #работа #claude-code #cursor #codex |
+| Формировщик задач Jira | [jira-task-builder.md](jira-task-builder.md) | #работа #claude-code #cursor #codex #диалог #готовый-текст |
