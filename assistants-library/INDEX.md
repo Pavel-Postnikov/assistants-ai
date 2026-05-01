@@ -12,7 +12,7 @@
 | Генерация идей | [assistants/ideas/](assistants/ideas/ideas.md) | 1 |
 | Работа с текстом | [assistants/writing/](assistants/writing/writing.md) | 0 |
 | Планирование | [assistants/planning/](assistants/planning/planning.md) | 2 |
-| Разработка | [assistants/code/](assistants/code/code.md) | 0 |
+| Разработка | [assistants/code/](assistants/code/code.md) | 1 |
 | Контент и творчество | [assistants/content/](assistants/content/content.md) | 0 |
 | Принятие решений | [assistants/decisions/](assistants/decisions/decisions.md) | 0 |
 
@@ -70,7 +70,10 @@
 | #вопросы | [Критик бизнес-идей](assistants/analysis/idea-critic.md) |
 | #быт | [Шеф из холодильника](assistants/ideas/fridge-chef.md) |
 | #список-идей | [Шеф из холодильника](assistants/ideas/fridge-chef.md) |
-| #готовый-текст | [Формировщик задач Jira](assistants/planning/jira-task-builder.md), [Тренер по дрессировке пса](assistants/planning/dog-training-planner.md) |
+| #разработка | [Конвертер HTML/MHTML в Markdown](assistants/code/html-to-markdown.md) |
+| #claude-code | [Формировщик задач Jira](assistants/planning/jira-task-builder.md), [Конвертер HTML/MHTML в Markdown](assistants/code/html-to-markdown.md) |
+| #один-запрос | [Конвертер HTML/MHTML в Markdown](assistants/code/html-to-markdown.md) |
+| #готовый-текст | [Формировщик задач Jira](assistants/planning/jira-task-builder.md), [Тренер по дрессировке пса](assistants/planning/dog-training-planner.md), [Конвертер HTML/MHTML в Markdown](assistants/code/html-to-markdown.md) |
 
 ---
 

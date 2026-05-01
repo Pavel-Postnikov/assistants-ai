@@ -6,4 +6,4 @@
 
 | Помощник | Файл | Теги |
 |---|---|---|
-| — | пока пусто | — |
+| Конвертер HTML/MHTML в Markdown | [html-to-markdown.md](html-to-markdown.md) | #разработка #claude-code #один-запрос #готовый-текст |
